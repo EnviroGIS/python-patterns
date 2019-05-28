@@ -41,4 +41,7 @@ python -m ipykernel install --user --name env
 8. Запускаємо Jupyter Notebook: `jupyter-notebook` (або Jupyter lab (`jupyter-lab`)) та обираємо `env` у ролі кернела
 
 
-Має запуститися головне вікно Jupyter
+Має запуститися головне вікно Jupyter:
+
+
+![Jupyter](media/jupyter.jpg "Jupyter")
