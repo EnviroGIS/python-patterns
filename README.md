@@ -48,3 +48,8 @@ python -m ipykernel install --user --name env
 
 
 ![Jupyter](media/jupyter.jpg "Jupyter")
+
+
+Якщо програма не пропонує обрати кернел при вході, заходимо в документ npp_workshop.ipynb, відкриваємо вкладку `Kernel` -> `Change kernel` -> `env`
+
+![Kernel](media/kernel.png "Kernel")
