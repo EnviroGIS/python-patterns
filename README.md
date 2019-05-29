@@ -19,6 +19,7 @@
 cd Desktop/python-patterns
 `
 _- зверніть увагу, що у Windows використовується знак `\` в ролі розділювача папок_
+
 4.0 Встановлюємо інструмент створення **virtual environment**: 
 
 `apt-get install python3-venv` - Linux, Mac
