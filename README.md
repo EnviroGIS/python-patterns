@@ -22,7 +22,10 @@ python -m venv env
 source env/bin/activate
 ```
 
-На даному етапі всі виклики python мають відбуватися з даного **virtual environment**. У командній стрічці (терміналі) має бути вказано `(env)` на початку. Для перевірки пишемо `which python` і маємо побачити щось в такому форматі `/home/username/Desktop/python-patterns/env/bin/python`
+На даному етапі всі виклики python мають відбуватися з даного **virtual environment**. У командній стрічці (терміналі) має бути вказано `(env)` на початку.
+![Activated](media/activate.png "Activated")
+
+Для перевірки пишемо `which python` і маємо побачити щось в такому форматі `/home/username/Desktop/python-patterns/env/bin/python`
 
 6. Встановлюємо всі потрібні модулі:
 ```
