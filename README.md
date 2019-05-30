@@ -30,7 +30,7 @@ _- зверніть увагу, що у Windows використовується
 
 `python -m venv env` - Linux, Mac
 
-`virtualenv venv` - Windows
+`virtualenv env` - Windows
 
 5. Активуємо його:
 ```
