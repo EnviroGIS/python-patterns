@@ -22,7 +22,7 @@ _- зверніть увагу, що у Windows використовується
 
 4.0 Встановлюємо інструмент створення **virtual environment**: 
 
-`apt-get install python3-venv` - Linux, Mac
+`apt-get install python3-venv` - Linux
 
 `pip install virtualenv` - Windows
 
